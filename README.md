@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hardickchatterjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardickchatterjee)
 [![Email](https://img.shields.io/badge/Email-hardickchatterjee2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hardickchatterjee2@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-San-Francisco%2C_AZ-lightgrey?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tempe,AZ)
+[![Location](https://img.shields.io/badge/Based_in-San%20Francisco%2C%20CA-lightgrey?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=San+Francisco,CA)
 
 </div>
 
