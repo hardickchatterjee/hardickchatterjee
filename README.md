@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hardickchatterjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardickchatterjee)
 [![Email](https://img.shields.io/badge/Email-hardickchatterjee2%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hardickchatterjee2@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Tempe%2C_AZ-lightgrey?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tempe,AZ)
+[![Location](https://img.shields.io/badge/Based_in-San-Francisco%2C_AZ-lightgrey?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Tempe,AZ)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Founding Engineer at BLUSVN Technologies** (Scottsdale, AZ) — a seed-stage startup where I architected the entire backend platform from scratch as the sole backend engineer.
+I'm a **Founding Engineer at BLUSVN Technologies** — a seed-stage startup where I architected the entire backend platform from scratch as the sole backend engineer.
 
 - 🏗️ Built a **type-safe, multi-tenant API platform** (TypeScript · Node.js · tRPC · Prisma · PostgreSQL) handling **3× traffic growth** at **99.99% uptime**
 - 💳 Designed **PCI-compliant multi-provider payment infrastructure** with 100% idempotency and **<0.1% failure rate**, reducing churn by **18%**
